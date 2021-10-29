@@ -29,7 +29,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
         backgroundColor: Colors.lightBlue,
-        appBar: AppBar(title: Text('Chat List')),
+        appBar: AppBar(title: Text('Flutter Layout Chat List')),
         body: Center(
           child: Container(
             decoration: BoxDecoration(
